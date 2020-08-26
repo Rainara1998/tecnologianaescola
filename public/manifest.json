@@ -1,0 +1,15 @@
+{
+  "short_name": "Tecnologia na Escola",
+  "name": "Tecnologia na Escola",
+  "icons": [
+    {
+      "src": "favico.png",
+      "sizes": "70x70 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
